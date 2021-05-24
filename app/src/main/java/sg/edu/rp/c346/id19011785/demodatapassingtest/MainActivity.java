@@ -48,6 +48,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Intent int3 = new Intent(MainActivity.this, ForthActivity.class);
                 int3.putExtra("db", 99.99);
+                startActivity(int3);
             }
         });
 
