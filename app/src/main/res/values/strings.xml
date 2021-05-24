@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Demo Data Passing Test</string>
+    <string name="passInt">PASS INTEGER VALUE TO 2ND ACTIVITY</string>
+    <string name="passChar">PASS CHARACTER VALUE TO 2ND ACTIVITY</string>
+    <string name="tv1">TextView</string>
+    <string name="tView2">TextView</string>
+    <string name="textView3">PASS DOUBLE VALUE TO 2ND ACTIVITY</string>
+    <string name="tv4">TextView</string>
+</resources>
